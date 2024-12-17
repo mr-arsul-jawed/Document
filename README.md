@@ -112,4 +112,4 @@ The Pizza Delivery platform is a full-stack application designed to streamline t
 [Customer] ---< Places >--- [Order] ---< Contains >--- [Pizza]
 [Admin] ---< Manages >--- [Pizza]
 [Admin] ---< Oversees >--- [Order]
-[Delivery Personnel] ---< Delivers >--- [Order]
+[Delivery Personnel] ---< Delivers >--- [Order] 
