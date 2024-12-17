@@ -1,4 +1,4 @@
-# Pizza Delivery Platform Documentation
+# Pizza Delivery 
 
 ## Overview
 The Pizza Delivery platform is a full-stack application designed to streamline the process of ordering, managing, and delivering pizzas. It includes separate functionalities for users (customers), admins, and delivery personnel. The platform ensures a seamless experience from order placement to delivery, with real-time updates and efficient management of inventory and orders.
